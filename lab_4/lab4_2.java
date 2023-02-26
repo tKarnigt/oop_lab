@@ -1,6 +1,6 @@
 import java.util.GregorianCalendar;
 import java.util.Calendar;
-public class lab4_2
+public class App
 {
     public static void main(String[] args)
     {
