@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Lab4_3_64010022
+public class App
 {
     public static void main(String[] args) {
         StopWatch clock = new StopWatch();
