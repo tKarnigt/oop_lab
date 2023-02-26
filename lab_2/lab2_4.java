@@ -1,4 +1,3 @@
-Lab 2 ข้อ 4
 import java.util.Scanner;
 import java.util.Random;
 public class lab2_4 {
