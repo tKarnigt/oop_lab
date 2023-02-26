@@ -1,4 +1,4 @@
-public class Lab3_1 {
+public class lab3_1 {
     public static boolean checkPrime(int num){
         int factor = 0;
         for(int i = 1;i<=num;i++){
